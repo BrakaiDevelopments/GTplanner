@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824556143916",
+    "firebase_url": "https://gtplanner-a5eea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gtplanner-a5eea",
+    "storage_bucket": "gtplanner-a5eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824556143916:android:0477db0922a3ba7bba5889",
+        "android_client_info": {
+          "package_name": "com.gtplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824556143916-90jric6avohbt1djfkn3akdrinahi16m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtplanner",
+            "certificate_hash": "a391cea39c19144add27480bc116d18970feca65"
+          }
+        },
+        {
+          "client_id": "824556143916-kain11v6rc854sgk75ljpuvlioj1f84t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaIAq8N2lOyXgkPcYJ9mD22ckiffaCmQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824556143916-9s3vq5ekjj8duci1lcufng0218ms2llq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <import type="com.gtplanner.viewmodel.splash.SplashViewModel"/>
+
+        <variable
+            name="viewModel"
+            type="SplashViewModel" />
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_700"
+        tools:context=".ui.view.splash.SplashFragment">
+
+        <ProgressBar
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_gravity="center"/>
+
+
+    </FrameLayout>
+</layout>
